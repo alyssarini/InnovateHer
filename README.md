@@ -1,2 +1,0 @@
-# InnovateHer
-Hackathon UMPSA
