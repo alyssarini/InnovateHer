@@ -26,9 +26,11 @@ To get started with the Titip Asa App, follow these steps:
    git clone https://github.com/yourusername/titip_asa_app.git
 
 2. Navigate to the project directory:
+   ```bash
    cd Desktop/InnovateHer/titip_asa_app/
 
 3. Install the necessary dependencies:
+   ```bash
    flutter pub get
 
 4. Run the app:
