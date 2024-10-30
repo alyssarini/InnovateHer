@@ -34,6 +34,7 @@ To get started with the Titip Asa App, follow these steps:
    flutter pub get
 
 4. Run the app:
+   ```bash
    flutter run
 
 ## Usage
